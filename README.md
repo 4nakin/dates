@@ -1,0 +1,1 @@
+To use this project please download and install the latest ShowKit.framework - Steps to do this are at http://www.showkit.com/docs
